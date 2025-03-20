@@ -4,3 +4,6 @@ uvicorn
 python-jose[cryptography]
 passlib[bcrypt]
 python-dotenv
+passlib[bcrypt]
+python-multipart
+httpx
